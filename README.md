@@ -5,9 +5,9 @@ We're your trusted partner for coding education and custom software solutions. A
 ### 💼 What We Do
 
 - 💻 **Coding Classes**: We offer a wide range of coding classes to help you kickstart or advance your career in the tech industry. Our courses include:
-  - 🌐 Web Development
-  - 📱 Mobile App Development
-  - 💡 Microbit Programming
+  - Web App Development
+  - Mobile App Development
+  - Microbit/Block Programming
   
 - 🚀 **Custom Software Solutions**: Need a tailor-made software solution for your business? We specialize in creating cutting-edge software that meets your unique needs and objectives.
 
